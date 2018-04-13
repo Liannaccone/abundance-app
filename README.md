@@ -1,11 +1,11 @@
 # Abundance
 
-Abundant is your solution for helping your neighbors elimate food waste in the Bay Area. The idea is simple. You have extra limes growing in your backyard. Your neighbors have an abundance of tomatoes this year. Instead of going to the market down the street to buy produce, you can instead connect with your neighbor and exchange your extra produce that would otherwise go to waste!
+Abundance is the solution for helping you and your neighbors elimate food waste. The idea is simple. You have extra limes growing in your backyard. Your neighbors have an abundance of tomatoes this year. Instead of going to the market down the street to buy produce, you can instead connect with your neighbor and exchange your extra produce that would otherwise go to waste!
 
 
 ## Getting Started
 
-### When you first visit Abundant, click the "signup" button located on the homepage. 
+### When you first visit Abundance, click the "signup" button located on the homepage. 
 
 ![homescreen](/public/assets/images/screenshots/homescreen.png)
 
